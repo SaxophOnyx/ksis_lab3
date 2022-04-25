@@ -1,0 +1,7 @@
+D:\Мои файлы\CSharp\ChatProject_v2\ChatProject_v2\obj\Debug\ChatProject_v2.csprojAssemblyReference.cache
+D:\Мои файлы\CSharp\ChatProject_v2\ChatProject_v2\obj\Debug\ChatProject_v2.csproj.CoreCompileInputs.cache
+D:\Мои файлы\CSharp\ChatProject_v2\ChatProject_v2\bin\Debug\ChatProject_v2.exe.config
+D:\Мои файлы\CSharp\ChatProject_v2\ChatProject_v2\bin\Debug\ChatProject_v2.exe
+D:\Мои файлы\CSharp\ChatProject_v2\ChatProject_v2\bin\Debug\ChatProject_v2.pdb
+D:\Мои файлы\CSharp\ChatProject_v2\ChatProject_v2\obj\Debug\ChatProject_v2.exe
+D:\Мои файлы\CSharp\ChatProject_v2\ChatProject_v2\obj\Debug\ChatProject_v2.pdb
